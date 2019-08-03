@@ -4,6 +4,6 @@
 
 @section('container')
     <div class="container">
-        <h1>Helo, <?= $nama ?>!</h1>
+        <h1>Hello, <?= $nama ?>!</h1>
     </div>
 @endsection
